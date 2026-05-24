@@ -1,0 +1,136 @@
+"tab.heute" = "Heute";
+"tab.voegel" = "Vögel";
+"tab.logbuch" = "Logbuch";
+"tab.training" = "Training";
+"tab.einstellungen" = "Einstellungen";
+
+"action.cancel" = "Abbrechen";
+"action.save" = "Speichern";
+
+"fw.onb.skip" = "Überspringen";
+"fw.onb.next" = "Weiter";
+"fw.onb.start" = "Loslegen";
+"fw.onb.1.title" = "Flugausgewicht ohne Rätselraten";
+"fw.onb.1.body" = "Tragen Sie das morgendliche Gewicht Ihres Greifvogels ein und sehen Sie sofort die Abweichung vom Flugausgewicht.";
+"fw.onb.2.title" = "Futter passend zur Disziplin";
+"fw.onb.2.body" = "Die App empfiehlt die heutige Atzung in Gramm für Eintagsküken, Wachteln, Mäuse oder Kaninchen.";
+"fw.onb.3.title" = "Volles Logbuch der Saison";
+"fw.onb.3.body" = "Wiegung, Atzung, Federspiel, Beizjagd, Sprünge und Notizen — alles unter einem Dach.";
+
+"heute.empty.title" = "Noch kein Vogel angelegt";
+"heute.empty.body" = "Wechseln Sie auf «Vögel» und tragen Sie Ihren Beizvogel ein.";
+"heute.target" = "Flugausgewicht: %d g";
+"heute.delta.over" = "Übergewichtig";
+"heute.delta.under" = "Untergewichtig";
+"heute.delta.exact" = "Im Idealbereich";
+"heute.feed.title" = "Atzung heute";
+"heute.feed.gram" = "%d g (Rindfleisch-Äquivalent)";
+"heute.feed.kinds" = "Anpassung pro Futterart unten.";
+"heute.chart.title" = "Gewichtsverlauf · 7 Tage";
+"heute.chart.empty" = "Wiegen Sie heute, damit der Verlauf startet.";
+"heute.entry.title" = "Heutiges Gewicht";
+"heute.entry.placeholder" = "Gramm";
+"heute.entry.save" = "Eintragen";
+
+"status.low" = "untergewichtig";
+"status.near" = "kurz vor Flugausgewicht";
+"status.on" = "im Flugausgewicht";
+"status.high" = "übergewichtig";
+
+"voegel.flying" = "Flugausgewicht";
+"voegel.edit" = "Bearbeiten";
+"voegel.delete" = "Löschen";
+"voegel.add" = "Neuer Vogel";
+"voegel.field.name" = "Name";
+"voegel.field.name.placeholder" = "z. B. Sturmwind";
+"voegel.field.species" = "Art";
+"voegel.field.weights" = "Gewichte";
+"voegel.field.full" = "Sattgewicht";
+"voegel.field.flying" = "Flugausgewicht";
+"voegel.field.training" = "Trainingsgewicht";
+"voegel.field.notes" = "Notizen";
+
+"logbuch.empty.title" = "Logbuch leer";
+"logbuch.empty.body" = "Tragen Sie eine Wiegung oder eine Atzung ein.";
+"logbuch.filter.all" = "Alle";
+
+"log.kind.weighing" = "Wiegung";
+"log.kind.feeding" = "Atzung";
+"log.kind.training" = "Training";
+"log.kind.flight" = "Flug";
+"log.kind.hunt" = "Beizjagd";
+"log.kind.note" = "Notiz";
+
+"species.habicht.name" = "Habicht";
+"species.wanderfalke.name" = "Wanderfalke";
+"species.sperber.name" = "Sperber";
+"species.steinadler.name" = "Steinadler";
+"species.turmfalke.name" = "Turmfalke";
+"species.rotmilan.name" = "Rotmilan";
+
+"species.habicht.habitat" = "Mischwälder mit hohen Bäumen und Beuteflächen am Rand.";
+"species.habicht.prey" = "Tauben, Krähen, Hasen.";
+"species.habicht.temperament" = "Vertrauensvoll mit konstanter Hand, sehr fokussiert auf Beute.";
+"species.wanderfalke.habitat" = "Felswände, Stadtdächer mit Taubenpopulation.";
+"species.wanderfalke.prey" = "Vögel im Sturzflug aus großer Höhe.";
+"species.wanderfalke.temperament" = "Hoch reaktiv, braucht ruhige Hände und klare Routine.";
+"species.sperber.habitat" = "Lichte Waldränder und Gärten.";
+"species.sperber.prey" = "Kleine Singvögel.";
+"species.sperber.temperament" = "Sensibel, klein, nervös. Erfahrene Falkner.";
+"species.steinadler.habitat" = "Alpenraum, offene Hochebenen.";
+"species.steinadler.prey" = "Murmeltiere, Füchse, große Hasen.";
+"species.steinadler.temperament" = "Stark, ausdauernd, fordert viel Erfahrung und Platz.";
+"species.turmfalke.habitat" = "Kulturlandschaft, Kirchtürme, Felder.";
+"species.turmfalke.prey" = "Mäuse, kleine Vögel.";
+"species.turmfalke.temperament" = "Lernfähig, beliebt im Greifvogelschutz und in Schulen.";
+"species.rotmilan.habitat" = "Offene Felder mit alten Bäumen.";
+"species.rotmilan.prey" = "Aas, kleine Säuger, Reptilien.";
+"species.rotmilan.temperament" = "Gesellig, ruhig, eher selten in der Beizjagd.";
+
+"feed.chick" = "Küken";
+"feed.quail" = "Wachtel";
+"feed.rabbit" = "Kaninchen";
+"feed.mouse" = "Maus";
+"feed.beef" = "Rind";
+"feed.dove" = "Taube";
+
+"training.federspiel.title" = "Federspiel";
+"training.federspiel.body" = "Beute-Imitat an Schnur. Vogel jagt das schwingende Federbüschel und gewöhnt sich an Flug zur Faust.";
+"training.beizjagd.title" = "Beizjagd";
+"training.beizjagd.body" = "Echte Jagd im Revier. Mindestens 45 Minuten, nach Erfolg kleinere Atzung als Anreiz.";
+"training.faust.title" = "Auf-die-Faust";
+"training.faust.body" = "Kurze Flüge zum Falkner mit Belohnung. Festigt Bindung und Wiederholbarkeit.";
+"training.sprung.title" = "Sprungtraining";
+"training.sprung.body" = "Vom Block zur ausgestreckten Faust springen. Erste Stufe nach dem Abtragen.";
+"training.atzung.title" = "Atzungssitzung";
+"training.atzung.body" = "Ruhiges Füttern auf der Faust. Beobachten Sie Kropffüllung und Vertrauen.";
+"training.kreis.title" = "Kreisflug";
+"training.kreis.body" = "Mehrfaches Hin-und-her zwischen zwei Falknern. Aufbau von Ausdauer.";
+
+"settings.section.preferences" = "Präferenzen";
+"settings.section.data" = "Daten";
+"settings.section.about" = "Über";
+"settings.unit" = "Gewichts-Einheit";
+"settings.appearance" = "Erscheinungsbild";
+"settings.stats.birds" = "Vögel";
+"settings.stats.entries" = "Logbuch-Einträge";
+"settings.wipe" = "Daten des aktiven Vogels löschen";
+"settings.wipe.confirm" = "Alle Einträge des aktiven Vogels löschen?";
+"settings.support" = "Support kontaktieren";
+"settings.privacy" = "Datenschutzerklärung";
+"settings.version" = "Version";
+
+"appearance.system" = "System";
+"appearance.dark" = "Dunkel";
+"appearance.light" = "Hell";
+
+"unit.grams" = "Gramm";
+"unit.ounces" = "Unzen";
+
+"default.bird.name" = "Sturmwind";
+"support.subject" = "Support-Anfrage";
+
+"gate.welcome.title" = "Willkommen";
+"gate.welcome.subtitle" = "Lies den Datenschutzhinweis und fahre fort.";
+"gate.privacy.agree" = "Ich stimme der Datenschutzrichtlinie zu";
+"gate.privacy.continue" = "Fortfahren";
