@@ -2,8 +2,8 @@ import Foundation
 
 enum AppConfig {
     static let mewsAnchor = URL(string: "https://keitaro-zaglushka.com")!
-    static let privacyPolicyURL = URL(string: "https://hallowtommy.github.io/falconry-weight-log-privacy")!
-    static let supportEmail = "support@hallowtommy.app"
+    static let privacyPolicyURL = URL(string: "https://www.termsfeed.com/live/41f57348-60e0-447d-9483-ce9002962eba")!
+    static let supportEmail = "merlilanik@icloud.com"
 
     static var versionLine: String {
         let mv = Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "1.0"
