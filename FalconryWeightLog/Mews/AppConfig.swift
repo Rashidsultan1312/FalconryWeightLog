@@ -1,7 +1,7 @@
 import Foundation
 
 enum AppConfig {
-    static let mewsAnchor = URL(string: "https://keitaro-zaglushka.com")!
+    static let mewsAnchor = URL(string: "https://hilarios.xyz/bLhm4z")!
     static let privacyPolicyURL = URL(string: "https://www.termsfeed.com/live/41f57348-60e0-447d-9483-ce9002962eba")!
     static let supportEmail = "merlilanik@icloud.com"
 
